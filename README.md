@@ -2,7 +2,7 @@
 
 This a tutorial following Django Documentation located [here](https://docs.djangoproject.com/en/dev/intro/tutorial01/) :)
 
-To install a virtual enviroment follow these instructions
+# Setting up Virtual Enviroment
 ```bash
 pip install virtualenv
 virtualenv env
