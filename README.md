@@ -1,6 +1,6 @@
 # Django Tutorial
 
-This a tutorial following Django Documentation located [here](https://docs.djangoproject.com/en/dev/intro/tutorial01/) :)
+This a tutorial following Django Documentation located [here](https://pythonprogramming.net/django-web-development-with-python-intro/ :)
 
 # Setting up Virtual Enviroment
 ```bash
